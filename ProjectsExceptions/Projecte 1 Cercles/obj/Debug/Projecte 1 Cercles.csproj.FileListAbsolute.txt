@@ -1,0 +1,8 @@
+C:\Users\Xavier\Downloads\ProjectsExceptions\ProjectsExceptions\Projecte 1 Cercles\bin\Debug\Projecte 1 Cercles.exe.config
+C:\Users\Xavier\Downloads\ProjectsExceptions\ProjectsExceptions\Projecte 1 Cercles\bin\Debug\Projecte 1 Cercles.exe
+C:\Users\Xavier\Downloads\ProjectsExceptions\ProjectsExceptions\Projecte 1 Cercles\bin\Debug\Projecte 1 Cercles.pdb
+C:\Users\Xavier\Downloads\ProjectsExceptions\ProjectsExceptions\Projecte 1 Cercles\obj\Debug\Projecte 1 Cercles.csproj.AssemblyReference.cache
+C:\Users\Xavier\Downloads\ProjectsExceptions\ProjectsExceptions\Projecte 1 Cercles\obj\Debug\Projecte 1 Cercles.csproj.SuggestedBindingRedirects.cache
+C:\Users\Xavier\Downloads\ProjectsExceptions\ProjectsExceptions\Projecte 1 Cercles\obj\Debug\Projecte 1 Cercles.csproj.CoreCompileInputs.cache
+C:\Users\Xavier\Downloads\ProjectsExceptions\ProjectsExceptions\Projecte 1 Cercles\obj\Debug\Projecte 1 Cercles.exe
+C:\Users\Xavier\Downloads\ProjectsExceptions\ProjectsExceptions\Projecte 1 Cercles\obj\Debug\Projecte 1 Cercles.pdb
